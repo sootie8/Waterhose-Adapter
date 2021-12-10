@@ -1,0 +1,27 @@
+{
+    "parameterSets": {
+        "design default values": {
+            "bottom_barb_count": "3",
+            "bottom_barb_diam": "12",
+            "bottom_barb_height": "5",
+            "bottom_barb_min_mul": "0.8",
+            "hole_diam": "2",
+            "top_barb_count": "3",
+            "top_barb_diam": "4",
+            "top_barb_height": "2",
+            "top_barb_min_mul": "0.8"
+        },
+        "1\/2 inch to 3mm ish": {
+            "bottom_barb_count": "3",
+            "bottom_barb_diam": "12",
+            "bottom_barb_height": "5",
+            "bottom_barb_min_mul": "0.8",
+            "hole_diam": "2",
+            "top_barb_count": "3",
+            "top_barb_diam": "4",
+            "top_barb_height": "2",
+            "top_barb_min_mul": "0.8"
+        }
+    },
+    "fileFormatVersion": "1"
+}
